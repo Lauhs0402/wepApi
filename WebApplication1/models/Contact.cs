@@ -2,5 +2,6 @@
 {
     public class Contact
     {
+        public Guid Id { get; set; }
     }
 }
