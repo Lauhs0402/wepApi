@@ -10,7 +10,7 @@ namespace WebApplication1.Data
         }
 
 
-        public DbSet<Contact> MyProperty { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
 
     }
    }
